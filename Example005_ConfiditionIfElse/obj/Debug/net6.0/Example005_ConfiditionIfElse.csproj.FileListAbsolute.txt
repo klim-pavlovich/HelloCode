@@ -1,0 +1,15 @@
+C:\Users\klimm\Desktop\Geek Brains\C#\Examples\Example005_ConfiditionIfElse\obj\Debug\net6.0\Example005_ConfiditionIfElse.csproj.AssemblyReference.cache
+C:\Users\klimm\Desktop\Geek Brains\C#\Examples\Example005_ConfiditionIfElse\obj\Debug\net6.0\Example005_ConfiditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klimm\Desktop\Geek Brains\C#\Examples\Example005_ConfiditionIfElse\obj\Debug\net6.0\Example005_ConfiditionIfElse.AssemblyInfoInputs.cache
+C:\Users\klimm\Desktop\Geek Brains\C#\Examples\Example005_ConfiditionIfElse\obj\Debug\net6.0\Example005_ConfiditionIfElse.AssemblyInfo.cs
+C:\Users\klimm\Desktop\Geek Brains\C#\Examples\Example005_ConfiditionIfElse\obj\Debug\net6.0\Example005_ConfiditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\klimm\Desktop\Geek Brains\C#\Examples\Example005_ConfiditionIfElse\bin\Debug\net6.0\Example005_ConfiditionIfElse.exe
+C:\Users\klimm\Desktop\Geek Brains\C#\Examples\Example005_ConfiditionIfElse\bin\Debug\net6.0\Example005_ConfiditionIfElse.deps.json
+C:\Users\klimm\Desktop\Geek Brains\C#\Examples\Example005_ConfiditionIfElse\bin\Debug\net6.0\Example005_ConfiditionIfElse.runtimeconfig.json
+C:\Users\klimm\Desktop\Geek Brains\C#\Examples\Example005_ConfiditionIfElse\bin\Debug\net6.0\Example005_ConfiditionIfElse.dll
+C:\Users\klimm\Desktop\Geek Brains\C#\Examples\Example005_ConfiditionIfElse\bin\Debug\net6.0\Example005_ConfiditionIfElse.pdb
+C:\Users\klimm\Desktop\Geek Brains\C#\Examples\Example005_ConfiditionIfElse\obj\Debug\net6.0\Example005_ConfiditionIfElse.dll
+C:\Users\klimm\Desktop\Geek Brains\C#\Examples\Example005_ConfiditionIfElse\obj\Debug\net6.0\refint\Example005_ConfiditionIfElse.dll
+C:\Users\klimm\Desktop\Geek Brains\C#\Examples\Example005_ConfiditionIfElse\obj\Debug\net6.0\Example005_ConfiditionIfElse.pdb
+C:\Users\klimm\Desktop\Geek Brains\C#\Examples\Example005_ConfiditionIfElse\obj\Debug\net6.0\Example005_ConfiditionIfElse.genruntimeconfig.cache
+C:\Users\klimm\Desktop\Geek Brains\C#\Examples\Example005_ConfiditionIfElse\obj\Debug\net6.0\ref\Example005_ConfiditionIfElse.dll
